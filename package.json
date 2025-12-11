@@ -1,9 +1,9 @@
 {
   "name": "youtube-transcript-api",
   "version": "1.0.0",
-  "description": "YouTube Transcript API for n8n integration",
+  "description": "n8n icin Youtube konusma metni cekme API",
   "main": "api/transcript.js",
   "dependencies": {
-    "youtube-transcript": "^1.2.9" 
+    "youtube-transcript": "latest" 
   }
 }
